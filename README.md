@@ -1,6 +1,6 @@
 ## **Privacy Policy for AnyNotes+**
 
-Effective Date: \[May 4, 2025]
+Effective Date: May 4, 2025
 
 Your privacy is important to us. This Privacy Policy explains how AnyNotes+ (“the App”) collects, uses, and protects your information when you use the app.
 
@@ -47,5 +47,5 @@ We may update this policy from time to time. The latest version will always be a
 
 ### **8. Contact**
 
-If you have any questions about this Privacy Policy, please contact us at: \[sakeven.jiang@gmail.com].
+If you have any questions about this Privacy Policy, please contact us at: sakeven.jiang@gmail.com.
 
