@@ -1,3 +1,7 @@
+---
+layout: none
+---
+
 # AnyNotes+ Support & Privacy
 
 Welcome to the official support and privacy policy page for **AnyNotes+**.
